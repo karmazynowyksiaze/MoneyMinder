@@ -1,0 +1,123 @@
+.main-container{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: -8px;
+    margin-bottom: 15px;
+}
+
+.bar-diagram{
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 1550px;
+    height: 395px;
+}
+
+.pie-diagram{
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin: 0px 15px 15px 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 914px;
+    width: 450px;
+    height: 395px;
+}
+
+.line-diagram{
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 450px;
+    height: 395px;
+}
+
+.shortcut-info-box{
+    display:  grid;
+    grid-template-columns: repeat(2, 1fr);  
+    grid-template-rows: repeat(2, 1fr);
+    justify-content: start;
+    
+}
+
+
+.user-bills-info-box {
+    background-color: rgba(140, 141, 255, 1);
+    background-image: linear-gradient(90deg, rgba(140, 141, 255, 1) 0%, rgba(71, 72, 255, 1) 100%);
+    border-radius: 15px;
+    margin: 0px 15px 15px 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 290px;
+    height: 190px;
+    text-align: center;
+    color:#ffffff;
+}
+
+.stock-income-info-box {
+    background-color: rgba(131, 187, 164, 1);
+    background-image: linear-gradient(90deg, rgba(131, 187, 164, 1) 0%, rgba(5, 152, 98, 1) 100%);
+    border-radius: 15px;
+    margin: 0px 15px 15px 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 290px;
+    height: 190px;
+    text-align: center;
+    color:#ffffff;
+}
+
+.stock-expanse-info-box {
+    background-color: rgba(237, 78, 75, 1);
+    background-image: linear-gradient(90deg, rgba(237, 78, 75, 1) 0%, rgba(167, 28, 25, 1) 100%);
+    border-radius: 15px;
+    margin: 0px 15px 15px 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 290px;
+    height: 190px;
+    text-align: center;
+    color:#ffffff;
+}
+
+.tab-box{
+    display: inline-block;
+    margin-top: auto;
+}
+
+.income-color-dashboard{
+    color:#ffffff;
+    display: inline-block;
+    margin: auto;
+}
+
+.user-account-info-box {
+    background-color: rgba(68, 65, 62, 1);
+    background-image: linear-gradient(90deg, rgba(68, 65, 62, 1) 0%, rgba(31, 6, 6, 1) 100%);
+    border-radius: 15px;
+    margin: 0px 15px 15px 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 290px;
+    height: 190px;
+    text-align: center;
+    color:#ffffff;
+}
+
+.user-account-info-text{
+    margin-top: 30px;
+}
+
+
+
+

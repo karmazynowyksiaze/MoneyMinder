@@ -1,0 +1,68 @@
+.income-color{
+    color:#3FC37F;
+    display: inline-block;
+    margin-left: 1em;
+}
+
+.expanse-color{
+    color: #B92A26;
+    display: inline-block;
+    margin-left: 1em;
+}
+.total-data{
+    font-family: 'Poppins', sans-serif;
+    float: left;
+    clear: left;
+}
+.user-data {
+    background-color: rgba(122, 190, 222, 1);
+    background-image: linear-gradient(90deg, rgba(122, 190, 222, 1) 0%, rgba(81, 120, 226, 1) 100%);
+    padding: 20px;
+    margin: 15px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: #ffffff;
+    height: 150px;
+    width: 250px;
+}
+.user-account-members {
+    background-color: rgba(255, 195, 111, 1);
+background-image: linear-gradient(90deg, rgba(255, 195, 111, 1) 0%, rgba(255, 119, 74, 1) 100%);
+    padding: 20px;
+    margin: 15px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: #ffffff;
+    height: 150px;
+    width: 250px;
+}
+
+.total-expanse{
+    background-color: rgba(237, 78, 75, 1);
+    background-image: linear-gradient(90deg, rgba(237, 78, 75, 1) 0%, rgba(167, 28, 25, 1) 100%);
+    padding: 20px;
+    margin: 15px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: #ffffff;
+    height: 150px;
+    width: 250px;
+}
+
+.total-income{
+    background-color: rgba(131, 187, 164, 1);
+    background-image: linear-gradient(90deg, rgba(131, 187, 164, 1) 0%, rgba(5, 152, 98, 1) 100%);
+    padding: 20px;
+    margin: 15px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: #ffffff;
+    height: 150px;
+    width: 250px;
+}
+
+

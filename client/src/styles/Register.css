@@ -1,0 +1,39 @@
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box-container-form {
+    box-shadow: 0px 0px 15px 0px #000000;
+    background-color: #ffffff; 
+    padding: 20px; 
+    border-radius: 20px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    text-align: center; 
+    height: 550px;
+    width: 750px; 
+}
+
+.box-container-info {
+    justify-content: left;
+    align-items: left;
+}
+
+.title-page {
+   margin-bottom: 50px;
+}
+
+.sign-up-button {
+    width: 700px;
+}
+
+hr {
+    width: 600px;
+}
+
+.login-button {
+    width: 700px;
+}
+

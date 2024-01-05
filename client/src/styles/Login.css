@@ -1,0 +1,81 @@
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box-container-form {
+    background-color: #ffffff; 
+    padding: 20px; 
+    border-radius: 0px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    text-align: center; 
+    height: 550px;
+    width: 750px; 
+}
+
+.box-container-info {
+    justify-content: left;
+    align-items: left;
+}
+
+.title-page {
+   margin-bottom: 50px;
+}
+
+.login-buttons-container {
+    color: blue;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.login-facebook-button {
+    width: 210px;
+    height: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.login-apple-button {
+    width: 210px;
+    height: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.login-google-button {
+    width: 210px;
+    height: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+    padding-right: 10px;
+}
+
+.accout-question {
+    border: 0;
+    border-top: 1px solid #333;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 1px;
+}
+.accout-question::after {
+    background: #fff;
+    content: 'Have account?';
+    padding: 15px;
+    position: relative;
+    top: -13px;
+}
+.register-button {
+    width: 700px;
+}
+

@@ -1,0 +1,9 @@
+body{
+    background-color: #F0F2F5
+}
+
+.auth-profile {
+    background-Image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    margin: -8px -8px -8px -8px;
+    font-family: 'Poppins', sans-serif;
+}
